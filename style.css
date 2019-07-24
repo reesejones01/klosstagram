@@ -1,0 +1,45 @@
+#travelblog {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 80px;
+}
+#globe1 {
+ height: 175px;
+}
+#globe2{
+  height: 175px;
+}
+.box{
+ display: flex;
+ justify-content: space-around;
+ border: 5px solid black;
+ border-radius: 90px;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+#suitcase{
+  height: 300px; width: 300px;
+
+}
+#desk{
+  height:300px; width:300px;
+}
+#italy {
+  height: 300px; width: 300px;
+}
+#airplane {
+  height: 300px; width: 250px;
+}
+#paris {
+  height: 300px; width: 300px;
+}
+#mtfj {
+  height: 300px; width: 350px;
+}
+#tag {
+  
+}
